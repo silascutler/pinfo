@@ -4,9 +4,10 @@ Simple CLI tool for showing Windows PE Info
 example_files:
   - calc.exe
 
+Section notes from: http://www.hexacorn.com/blog/2016/12/15/pe-section-names-re-visited/
 
 
-Example 
+Examples
 ```
 MD5:    829e4805b0e12b383ee09abdc9e2dc3c
 SHA1:   5a272b7441328e09704b6d7eabdbd51b8858fde4
@@ -48,4 +49,3 @@ PE Sections:
  [.rsrc]  0x82000   0x1000    1536   0x30800   Resource section 
 ```
 
-Section notes from: http://www.hexacorn.com/blog/2016/12/15/pe-section-names-re-visited/
