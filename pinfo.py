@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+# (c) 2016 Silas Cutler <silas.cutler@BlackListThisDomain.com>
+# Outputs File hashes + Section details
+
 
 import sys
 import pefile
